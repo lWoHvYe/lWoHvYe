@@ -2,7 +2,7 @@
 
 🌱 I have worked as a Java Developer for few years.
 
-🔭 ![img](IMG_2022-05-04.png) ⚡
+🔭 <img src=IMG_2022-05-04.png width=60% /> ⚡
 
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
