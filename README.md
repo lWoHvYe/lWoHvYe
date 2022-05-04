@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I have worked as a Java Developer for few years.
+
+🔭
+
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
