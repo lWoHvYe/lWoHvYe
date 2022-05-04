@@ -4,8 +4,8 @@
 
 
 🔭
-<div align="center">
-  <img src=IMG_2022-05-04.png />
+<div align="left">
+  <img src=IMG_2022-05-04.png width=28% />
 </div>
 ⚡
 
