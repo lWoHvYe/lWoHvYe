@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I have worked as a Java Developer for few years.
+🌱 I have bean working as a Java Developer for few years.
 
 
 🔭
