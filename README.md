@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-🌱 I have bean working as a Java Developer for few years.
+- 🌱 I have bean working as a Java Developer for few years.
 
+- 📫 lwohvye@outlook.com
 
 🔭
 <div align="left">
-  <img src=IMG_2022-05-04.png width=28% />
+  <img src=IMG_20230118.png width=28% />
 </div>
 ⚡
 
