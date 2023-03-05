@@ -6,7 +6,7 @@
 
 🔭
 <div align="left">
-  <img src=IMG_20230118.png width=28% />
+  <img src=Profile_29_01.png width=28% />
 </div>
 ⚡
 
