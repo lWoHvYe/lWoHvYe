@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I have bean working as a Java Developer for few years.
+- Intermediate: Java
+- Novice: C, Kotlin
+- Awareness: Go
 
 - 📫 lwohvye@outlook.com
 
@@ -23,4 +26,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 了解 (Awareness)：知道该语言，但在没有帮助的情况下无法编写简单的程序
+
+- 新手 (Novice)：可以用该语言完成简单的编程项目，可能需要帮助
+
+- 中级 (Intermediate)：可以在一些帮助下完成重要的编程项目
+
+- 高级 (Advanced)：可以在没有帮助的情况下完成重要的编程项目
+
+- 专家 (Expert)：可以提供指导、故障排除和回答其他工程师与该语言相关的问题
+
 -->
