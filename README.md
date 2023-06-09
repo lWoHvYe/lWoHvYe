@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I have bean working as a Java Developer for few years.
+- 🌱 I have been working as a Java Developer for a few years and I am planning to explore other programming languages in the future. 
 - Intermediate: Java
 - Novice: C, Kotlin
-- Awareness: Go
+- Awareness: Go, Lisp(Scheme)
 
 - 📫 lwohvye@outlook.com
 
