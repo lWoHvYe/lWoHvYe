@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I have been working as a Java Developer for a few years and I am planning to explore other programming languages in the future. 
+- 🌱 I have been working as a Java Developer for a few years and I am planning to try other languages in the future. 
 - Intermediate: Java
 - Novice: C, Kotlin
 - Awareness: Go, Lisp(Scheme)
