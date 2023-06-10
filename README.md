@@ -13,6 +13,8 @@
 </div>
 ⚡
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
