@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I have been working as a Java Developer for a few years and I am planning to try other languages in the future. 
+- 🌱 I have been working as a Java Developer for a few years.
+- Advanced: NaN 
 - Intermediate: Java
 - Novice: C, Kotlin
-- Awareness: Go, Lisp(Scheme)
+- Awareness: Go
 
 - 📫 lwohvye@outlook.com
 
@@ -11,10 +12,10 @@
 <div align="left">
   <img src=Profile_29_01.png width=28% />
 </div>
-⚡
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+⚡
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
