@@ -1,21 +1,19 @@
-### Hi there 👋
+### Hi there 👋， I'm Wang Hongyan(lWoHvYe).
 
-- 🌱 I have been working as a Java Developer for a few years.
+- 🌱 I have been working as a Java Developer for a few years. 📫 lwohvye@outlook.com
 - Advanced: NaN 
 - Intermediate: Java
 - Novice: C, Kotlin
-- Awareness: Go
-
-- 📫 lwohvye@outlook.com
+- Awareness: Go 
 
 🔭
 <div align="left">
   <img src=Profile_29_01.png width=28% />
 </div>
-
+⚡
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-⚡
+
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
