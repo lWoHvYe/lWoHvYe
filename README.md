@@ -1,10 +1,10 @@
 ### Hi there 👋， I'm Wang Hongyan(lWoHvYe).
 
 - 🌱 I have been working as a Java Developer for a few years. 📫 lwohvye@outlook.com
-- Advanced: NaN 
-- Intermediate: Java
-- Novice: C, Kotlin
-- Awareness: Go, Scheme
+- Advanced: <font color="#FF0000">NaN</font> 
+- Intermediate: <font color="#b07219">Java</font>
+- Novice: <font color="#555555">C</font>, <font color="#A97BFF">Kotlin</font>
+- Awareness: <font color="#00ADD8"> Go</font>, <font color="#1e4aec">Scheme</font>, <font color="#41b883">Vue</font>
 
 🔭
 <div align="left">
@@ -12,7 +12,7 @@
 </div>
 ⚡
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](/profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **lWoHvYe/lWoHvYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 
 - 专家 (Expert)：可以提供指导、故障排除和回答其他工程师与该语言相关的问题
 
+<font face="" size="" color="">WHY</font>
 -->
