@@ -4,7 +4,7 @@
 - Advanced: NaN 
 - Intermediate: Java
 - Novice: C, Kotlin
-- Awareness: Go 
+- Awareness: Go, Scheme
 
 🔭
 <div align="left">
