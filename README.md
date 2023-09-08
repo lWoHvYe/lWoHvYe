@@ -1,7 +1,7 @@
 ### Hi there 👋， I'm Wang Hongyan(lWoHvYe).
 
 - 🌱 I have been working as a Java Developer for a few years. 📫 lwohvye@outlook.com
-- Expert: <font color="#FF0000">NaN</font> 
+<!-- - Expert: <font color="#FF0000">NaN</font>  -->
 - Advanced: <font color="#b07219">Java</font> 
 - Intermediate: <font color="#FF0000">NaN</font>
 - Novice: <font color="#555555">C</font>, <font color="#A97BFF">Kotlin</font>
