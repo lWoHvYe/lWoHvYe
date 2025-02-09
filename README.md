@@ -1,11 +1,11 @@
 ### Hi there 👋， I'm Wang Hongyan(lWoHvYe).
 
 - 🌱 I have been working as a Java Developer for a few years. 📫 lwohvye@outlook.com
-<!-- - Expert: <font color="#FF0000">NaN</font>  -->
+- Expert: <font color="#FF0000">NaN</font>
 - Advanced: <font color="#b07219">Java</font> 
 - Intermediate: <font color="#FF0000">NaN</font>
-- Novice: <font color="#555555">C</font>, <font color="#A97BFF">Kotlin</font>, <font color="#3572A5">Python</font>
-- Awareness: <font color="#00ADD8"> Go</font>, <font color="#1e4aec">Scheme</font>, <font color="#41b883">Vue</font> 
+- Novice: <font color="#555555">C</font>, <font color="#A97BFF">Kotlin</font>, <font color="#3572A5">Python</font>, <font color="#00ADD8"> Go</font>
+- Awareness: <font color="#1e4aec">Scheme</font>, <font color="#41b883">Vue</font> 
 
 🔭
 <div align="left">
